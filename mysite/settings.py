@@ -25,7 +25,7 @@ SECRET_KEY = 'oavpjm=$5h4%sqshn#!98!5+wb7p88)yz_8^uvkg%2@=p6e34t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'ribalmac.pythonanywhere.com']
 
 
 # Application definition
